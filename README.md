@@ -1,4 +1,4 @@
-# startup_namer
+# Startup Namer
 
 A new Flutter application.
 
